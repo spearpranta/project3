@@ -1,0 +1,106 @@
+.{
+	overflow: hidden;
+}
+body{
+margin: 0;
+padding: 0;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.main_section {
+    width: 1200px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.header {
+}
+
+.left_part {
+	   float: left;
+	    width: 50%;
+}
+.left_part img{
+	display: inline-block;
+	float: left;
+}
+.left_part span{
+ 	display: inline-block;
+ 	vertical-align: center;
+    font-size: 31px;
+    font-weight: 900;
+	padding: 10px 5px;
+}
+
+.right_part {
+    text-align: center;
+    width: 50%;
+    float: left;
+} 
+.right_part ul{
+	 list-style: none;
+
+}
+.right_part ul li{
+    display: inline-block;
+}
+.right_part ul li a{
+	
+}
+.right_part ul li a img{
+
+}
+
+.button_part {
+}
+
+.button_part ul{
+	 margin: 0;
+    padding: 0;
+    padding-bottom: 40px;}
+.button_part ul li{
+	list-style: none;
+    float: left;
+    padding: 10px;
+}
+.button_part ul li a{
+	text-decoration: none;
+	display: block;
+
+}
+.button_part ul li a: hover{
+   
+}
+
+.container {
+	
+}
+
+.full_contant {
+	background-image: url(img/s.png);
+}
+.contant_img{
+	    transform: translateY(5em);
+}
+.contant_contant{
+	    margin-top: 105px;
+}
+.footer {
+	    overflow: hidden;
+    background: #141621;
+    color: #fff;
+	
+}
+button{
+	    background: #272c4a;
+    color: #fff;
+    padding: 10px;
+
+}
+button a{
+	color:#fff;
+	list-style: none;
+	text-decoration: none;
+}
